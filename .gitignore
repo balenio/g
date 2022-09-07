@@ -1,0 +1,7 @@
+# direnv
+.direnv/
+
+# packaging
+build/
+dist/
+*.egg-info/
