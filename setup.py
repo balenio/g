@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    name="g",
+    name="gvr",
     version="0.0.0",
     description="An informal AWK-like thing for python",
     author="balenio",
