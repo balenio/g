@@ -41,7 +41,7 @@ def main():
         if not line:
             continue
 
-        l = locals(args.line_var, line)
+        l = locals(args.item_var, line)
         eval(args.script, g, l)
 
 

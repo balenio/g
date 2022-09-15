@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="gvr",
-    version="0.1.0",
+    version="0.1.1",
     description="An informal AWK-like thing for python",
     author="balenio",
     author_email="pypi@ruf.mozmail.com",
